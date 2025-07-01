@@ -8,3 +8,5 @@ nacionalidade:str = input("Qual é a sua nacionalidade? ")
 print(f"{nome} tem {idade} anos e {nacionalidade}")
 experiencia:str = input("Qual é a sua experiencia em github? (Tem ou nao tem) ")
 print(f"{nome} tem {idade} anos e {nacionalidade}, {experiencia} em github ")
+
+print("Seja bem-vindo ao mundo da programação no Github!")
