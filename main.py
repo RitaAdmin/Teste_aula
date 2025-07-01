@@ -3,4 +3,4 @@ print("Tudo bem!")
 nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 idade: int = int(input("Quantos anos você tem? "))
-
+print(f"{nome} tem {idade} anos")
